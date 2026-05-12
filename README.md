@@ -21,6 +21,7 @@ This project analyzes suicide rates in India using data visualization and Python
 
 ## 📂 Dataset
 Suicides in India 2001-2012 Dataset
+link:https://suicide-rate-analysis-india-bkzjfquedazhaq2erxabqw.streamlit.app/
 
 ## ▶️ Run Project
 
